@@ -142,6 +142,7 @@ countwords(input)
 // Question 9:
 // Write a JavaScript function that takes an array of numbers and returns the second smallest number in the array.
 
+
 // Input: [10, 2, 14, 5, 7] - Not done yet
 
 // Question 10:
